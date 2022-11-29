@@ -1,0 +1,16 @@
+.image{
+	height: 250px;
+	border-radius: 100px;
+	padding: 20px;
+}
+p{
+	font-family: Dimbo;
+	font-size: 30px;
+}
+h1{
+	font-family: Tahoma;
+}
+.description{
+	font-family: Tahoma;
+	font-size: 20px;
+}
